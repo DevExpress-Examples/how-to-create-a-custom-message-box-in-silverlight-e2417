@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [AgMessageBox.cs](./CS/ModalMessageBox/AgMessageBox.cs) (VB: [AgMessageBox.vb](./VB/ModalMessageBox/AgMessageBox.vb))
+* [MainPage.xaml](./CS/ModalMessageBox/MainPage.xaml) (VB: [MainPage.xaml](./VB/ModalMessageBox/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/ModalMessageBox/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/ModalMessageBox/MainPage.xaml))
+<!-- default file list end -->
 # How to create a custom message box in Silverlight
 
 
